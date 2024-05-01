@@ -19,3 +19,9 @@ a:link {
 a:visited {
   color: rgb(159, 29, 225)
 }
+
+ul {
+  width: 18%;
+  margin: 0 auto;
+  margin-top: 24px;
+}
